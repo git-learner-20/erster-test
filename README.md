@@ -1,2 +1,2 @@
-# erster-test
+# Erster Test
 Das ist nur ein Test.
